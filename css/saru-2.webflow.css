@@ -1301,6 +1301,10 @@
     height: 450px;
   }
 
+  .wrapper-image-content-1 {
+    height: 100%;
+  }
+
   .team-info {
     width: 400px;
   }
