@@ -586,6 +586,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 50%;
+  height: 100%;
   margin: 0px;
   -webkit-justify-content: space-around;
   -ms-flex-pack: distribute;
@@ -643,6 +644,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 200%;
+  height: 100%;
   margin-left: -100%;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
